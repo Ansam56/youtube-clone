@@ -1,4 +1,4 @@
-# youtube-clone
+# Youtube Clone
 This project is a YouTube clone built with React that simulates the core functionality of YouTube. The application allows users to search for videos, view video details, and explore related content.
 
 ## Features
