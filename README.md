@@ -8,16 +8,14 @@ This project is a YouTube clone built with React that simulates the core functio
 + Related Videos: Explore related content based on the currently playing video.
 
 ## Technologies Used
-+ Reaact.
-+ Material UI (MUI).
-+ RapidAPI.
-+ Axios.
++ Reaact
++ Material UI (MUI)
++ RapidAPI
++ Axios
 
 ## How to Run the Project
 1. Install dependencies by running
-  
-   ```npm install```
-   
+   ```npm install``` 
 2. Create a .env file in the root directory and add your RapidAPI key.
 3. ```npm start```
    
