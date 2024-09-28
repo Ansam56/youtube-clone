@@ -14,6 +14,11 @@ This project is a YouTube clone built with React that simulates the core functio
 + Axios.
 
 ## How to Run the Project
-1. Install dependencies by running ==npm install== .
+1. Install dependencies by running
+  
+   ```npm install```
+   
 2. Create a .env file in the root directory and add your RapidAPI key.
-3. ==npm start==
+3. ```npm start```
+   
+
