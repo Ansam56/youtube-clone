@@ -8,7 +8,7 @@ This project is a YouTube clone built with React that simulates the core functio
 + Related Videos: Explore related content based on the currently playing video.
 
 ## Technologies Used
-+ Reaact
++ React
 + Material UI (MUI)
 + RapidAPI
 + Axios
